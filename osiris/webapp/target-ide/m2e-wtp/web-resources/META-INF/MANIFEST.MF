@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Build-Java: 1.8.0_101
+Build-Label: 1.0-SNAPSHOT
+Built-By: alex
+Build-Host: 
+Build-Maven: Maven ${maven.version}
+Build-Time: 
+Build-OS: Linux
+Build-User: alex
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+
